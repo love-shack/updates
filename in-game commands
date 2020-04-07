@@ -1,0 +1,50 @@
+Commands
+These are the commands everybody has access to in-game.
+
+/help - Opens a GUI with the list of commands you have access too
+
+/list - Views online players
+
+/kits - Views all kits
+
+/kit (Name of Kit) - Gives you that kit
+
+/warps - Views list of warps
+
+/ah - Opens the Auction house
+
+/shop - Opens a GUI with catagories you can buy from
+
+/quests - Opens a GUI of quest you can complete to get a reward
+
+/panel - Opens the GUI panel where you can warp, teleport to spawn village, random teleport, etc.
+
+/msg or /tell - Allows you to privatly message a player (Admins have access to view your private messages)Commands
+*These are the commands everybody has access to in-game.
+
+/help - Opens a GUI with the list of commands you have access too
+
+/kits - Views all kits
+
+/kit (Name of Kit) - Gives you that kit
+
+/warps - Views list of warps
+
+/ah - Opens the Auction house
+
+/shop - Opens a GUI with catagories you can buy from
+
+/quests - Opens a GUI of quest you can complete to get a reward
+
+/panel - Opens the GUI panel where you can warp, teleport to spawn village, random teleport, etc.
+
+/msg or /tell - Allows you to privatly message a player
+ Admins have access to view your private messages
+
+/spawn - Teleports you to spawn
+
+/tpa (Player) - Sends a request to teleport to a player
+
+/sethome - Sets a home
+
+/home - Teleports you to your home
